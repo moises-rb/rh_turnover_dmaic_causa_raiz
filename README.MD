@@ -52,9 +52,9 @@ Após atuar em um diagnóstico inicial (o projeto predecessor de ML), a abordage
 |------|--------|--------|
 | **DEFINE** (Objetivo e Escopo) | Definição do problema, Objetivo SMART e Project Charter | ✅ |
 | **MEASURE** (Medir Desempenho) | Baseline (Taxas de Turnover) e Capacidade do Processo (RTY) | ✅ |
-| **ANALYZE** (Causa Raiz Estatística) | **Regressão Logística** ($P-Value$, Coeficientes) e Ferramentas Lean | ⬜ |
-| **IMPROVE** (Melhorar Processo) | Propostas de Ações Corretivas e Planos de Intervenção | ⬜ |
-| **CONTROL** (Sustentar o Ganho) | Desenvolvimento do Plano de Controle e Gráficos de Controle | ⬜ |
+| **ANALYZE** (Causa Raiz Estatística) | **Regressão Logística** ($P-Value$, Coeficientes) e Ferramentas Lean | ✅ |
+| **IMPROVE** (Melhorar Processo) | Propostas de Ações Corretivas e Planos de Intervenção | ✅ |
+| **CONTROL** (Sustentar o Ganho) | Desenvolvimento do Plano de Controle e Gráficos de Controle | ✅ |
 | **ENTREGA** | Publicação de *case* e Dashboard no Power BI | ⬜ |
 
 ---
